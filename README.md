@@ -1,7 +1,7 @@
 # projeto-integrador-III
 
-Bruno  Martins  Oliveira
-Lucas nocetti Tavares
-igor  Ramon da Conceicao
-Pedro  luiz Cardenuto
-Maria Eduarda Vieira Aragão
+# Bruno Martins oliveira
+# Lucas Nocetti  Tavares
+# igor ramon da conceiçao
+# Pedro Luiz Cardenuto
+# Maria Eduarda Vieira Aragâo
